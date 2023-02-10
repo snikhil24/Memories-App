@@ -1,13 +1,13 @@
 # Memories App
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
-### Introduction
+## Introduction
 
 Memories is simple social media app that allows users to post interesting events. It's built in MERN stack. Server (backend) has been deployed in [Heroku](http://heroku.com/) and the client (frontend) in [Netlify](https://www.netlify.com/). 
 
 ![alt tag](https://raw.githubusercontent.com/snikhil24/Memories-App/main/Memories-Screenshot.png)
 
-### Technologies used
+## Technologies used
 
 ##### Client
 
