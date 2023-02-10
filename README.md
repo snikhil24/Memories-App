@@ -26,8 +26,8 @@ Memories is simple social media app that allows users to post interesting events
 4. mongoose: create models for our posts (MongoDB)
 5. nodemon: monitor for any changes in the source and automatically restart your server
 
-**Database**
-1. MongoDB ([MongoDB Atlas](https://www.mongodb.com/atlas))
+**Database**\
+MongoDB ([MongoDB Atlas](https://www.mongodb.com/atlas))
 
 ### Setup
 In order to run this project locally, follow the below steps:
