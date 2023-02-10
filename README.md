@@ -76,6 +76,7 @@ The client (Frontend) has been deployed in Netlify. Follow the below steps:
   ```
     npm run build
   ```
-  * The Above command will create a build folder inside the Client folder, this is the build which needs to be uploaded to Netlify which will deploy the frontend.
+  * The Above command will create a build folder inside the Client folder, this is the build which needs to be uploaded to Netlify which will deploy the       frontend.
+  
 \
 *Backend deployment on Heroku process was referred from Heroku official website.*
