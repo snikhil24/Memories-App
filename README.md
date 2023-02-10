@@ -3,7 +3,7 @@ Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
 ### Introduction
 
-Memories is simple social media app that allows users to post interesting events. It's built in MERN stack. Server (backend) has been deployed in [Heroku] (http://heroku.com/) and the client (frontend) in [Netlify](https://www.netlify.com/). 
+Memories is simple social media app that allows users to post interesting events. It's built in MERN stack. Server (backend) has been deployed in [Heroku](http://heroku.com/) and the client (frontend) in [Netlify](https://www.netlify.com/). 
 (https://raw.githubusercontent.com/snikhil24/Memories-App/main/Memories-Screenshot.png)
 
 ![alt tag](https://raw.githubusercontent.com/snikhil24/Memories-App/main/Memories-Screenshot.png)
@@ -28,7 +28,7 @@ Memories is simple social media app that allows users to post interesting events
 5. nodemon: monitor for any changes in the source and automatically restart your server
 
 **Database**
-1. MongoDB ([MongoDB Atlas] (https://www.mongodb.com/atlas))
+1. MongoDB ([MongoDB Atlas](https://www.mongodb.com/atlas))
 
 ### Setup
 In order to run this project locally, follow the below steps:
@@ -42,7 +42,7 @@ git clone https://github.com/snikhil24/Memories-App.git
 npm install
 ```
 3. MongoDB Atlas:
-  - Create a free account on MongoDB Atlas which is for Database. Check this [link] (https://www.mongodb.com/docs/atlas/tutorial/create-new-cluster/) which will guide you to create Cluster. 
+  - Create a free account on MongoDB Atlas which is for Database. Check this [link](https://www.mongodb.com/docs/atlas/tutorial/create-new-cluster/) which will guide you to create Cluster. 
   - Once the Cluster is created. In "Database Deployments" page, 
     click on "Connect" -> click on "Connect your application" -> Copy the "application code". The copied application code will be similar to below, replace     <username> and <password> with your credentials.
     ```
