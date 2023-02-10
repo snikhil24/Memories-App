@@ -54,7 +54,7 @@ npm install
 * In Server folder, .env.example shows an example on how to initialize the environment variables.
 
 ### Deployment
-**Backend**
+**Backend**\
 The Server (Backend) has been deployed in Heroku. In order to deploy the backend, follow the below steps:
   * Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
   * Initialize a git repository in a new or existing directory
@@ -69,7 +69,7 @@ The Server (Backend) has been deployed in Heroku. In order to deploy the backend
     $ git commit -am "make it better"
     $ git push heroku master
     ```
-**Frontend**
+**Frontend**\
 The client (Frontend) has been deployed in Netlify. Follow the below steps:
   * Once the account is created, click on "Add a new site"
   * Navigate to Client folder in terminal, execute the below command:
@@ -77,5 +77,5 @@ The client (Frontend) has been deployed in Netlify. Follow the below steps:
     npm run build
   ```
   * The Above command will create a build folder inside the Client folder, this is the build which needs to be uploaded to Netlify which will deploy the frontend.
-  
+\
 *Backend deployment on Heroku process was referred from Heroku official website.*
