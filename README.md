@@ -28,7 +28,7 @@ Memories is simple social media app that allows users to post interesting events
 5. nodemon: monitor for any changes in the source and automatically restart your server
 
 **Database**
-MongoDB ([MongoDB Atlas] (https://www.mongodb.com/atlas))
+1. MongoDB ([MongoDB Atlas] (https://www.mongodb.com/atlas))
 
 ### Setup
 In order to run this project locally, follow the below steps:
@@ -41,7 +41,6 @@ git clone https://github.com/snikhil24/Memories-App.git
 ```
 npm install
 ```
-
 3. MongoDB Atlas:
   - Create a free account on MongoDB Atlas which is for Database. Check this [link] (https://www.mongodb.com/docs/atlas/tutorial/create-new-cluster/) which will guide you to create Cluster. 
   - Once the Cluster is created. In "Database Deployments" page, 
