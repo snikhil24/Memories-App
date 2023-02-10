@@ -32,15 +32,15 @@ Memories is simple social media app that allows users to post interesting events
 ### Setup
 In order to run this project locally, follow the below steps:
 
-1. Clone the GitHub repository to your local
+* Clone the GitHub repository to your local
 ```
 git clone https://github.com/snikhil24/Memories-App.git
 ```
-2. Open the Terminal/Command prompt in your local. Below command must be executed by navigating to both Client and Server folder, this will install all the necessary packages needed for this project.
+* Open the Terminal/Command prompt in your local. Below command must be executed by navigating to both Client and Server folder, this will install all the necessary packages needed for this project.
 ```
 npm install
 ```
-3. MongoDB Atlas:
+* Database - MongoDB Atlas:
   - Create a free account on MongoDB Atlas which is for Database. Check this [link](https://www.mongodb.com/docs/atlas/tutorial/create-new-cluster/) which will guide you to create Cluster. 
   - Once the Cluster is created. In "Database Deployments" page, 
     click on "Connect" -> click on "Connect your application" -> Copy the "application code". The copied application code will be similar to below, replace     <username> and <password> with your credentials.
@@ -51,4 +51,4 @@ npm install
     ```
     CONNECTION_URL = mongodb+srv://<username>:<password>@cluster0.6xxxxxn.mongodb.net/?retryWrites=true&w=majority
     ```
-3. 
+* In Server folder, .env.example shows an example on how to initialize the environment variables.
