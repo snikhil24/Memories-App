@@ -29,7 +29,7 @@ Memories is simple social media app that allows users to post interesting events
 **Database**\
 MongoDB ([MongoDB Atlas](https://www.mongodb.com/atlas))
 
-### Setup
+## Setup
 In order to run this project locally, follow the below steps:
 
 * Clone the GitHub repository to your local
@@ -53,7 +53,7 @@ npm install
     ```
 * In Server folder, .env.example shows an example on how to initialize the environment variables.
 
-### Deployment
+## Deployment
 **Backend**\
 The Server (Backend) has been deployed in Heroku. In order to deploy the backend, follow the below steps:
   * Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line).
