@@ -14,8 +14,6 @@ Memories is simple social media app that allows users to post interesting events
 
 ## Technologies used
 
-##### Client
-
 **Frontend**
 1. Axios: for making API request
 2. Moment: library working for time and date
@@ -32,6 +30,7 @@ Memories is simple social media app that allows users to post interesting events
 5. nodemon: monitor for any changes in the source and automatically restart your server
 
 **Database**\
+\
 MongoDB ([MongoDB Atlas](https://www.mongodb.com/atlas))
 
 ## Setup
