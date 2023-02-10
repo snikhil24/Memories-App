@@ -14,4 +14,6 @@ Memories is simple social media app that allows users to post interesting events
 git clone https://github.com/snikhil24/Memories-App.git
 ```
 
+![alt tag](https://raw.githubusercontent.com/snikhil24/Memories-App/main/Memories-Screenshot.png)
+
 2. 
